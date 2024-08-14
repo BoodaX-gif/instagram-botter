@@ -11,13 +11,13 @@ this.code = "https://github.com/natrixdev/instagram-botter/blob/main/main.py"
 
 from instabot import likes, views, followers
 
-os.system("title Instagram followers, likes and views botter.")
+os.system(14,700 followers)
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
+ account_name=input(exrtvl)
    if account_name=="":
-     print('please input a real name')
+     print(exrtvl)
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
